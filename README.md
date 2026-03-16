@@ -1,3 +1,5 @@
+Ananda Julia (20230140046)
+
 ## Dokumentasi Endpoint API
 | HTTP Method | Endpoint | Deskripsi |
 | :--- | :--- | :--- |
@@ -7,7 +9,7 @@
 | `PUT` | `/ktp/{id}` | Memperbarui data KTP berdasarkan ID |
 | `DELETE` | `/ktp/{id}` | Menghapus data KTP berdasarkan ID |
 
-## Dokumentasi Tampilan Website (Tugas 2)
+## Dokumentasi Tampilan Website 
 | Dokumentasi | 
 | :--- |
 | <img width="800" src="screenshots/1.png" /> | 
